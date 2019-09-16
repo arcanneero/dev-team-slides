@@ -1,0 +1,15 @@
+= Dessine moi une dev team !
+:source-highlighter: highlightjs
+:revealjs_theme: league
+:revealjs_progress: true
+:revealjs_slideNumber: true
+:revealjs_history: true
+:revealjs_history: true
+:customcss: {runtimePrezDir}themes/onepoint/styles.css
+
+(In progress)
+
+[NOTE.speaker]
+====
+====
+
